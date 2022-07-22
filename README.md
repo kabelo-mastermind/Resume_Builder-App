@@ -10,9 +10,9 @@ and generate more resume.
 ##### ProjectFiles
 The directory contains DEMOCV word document, and CV-Genaretor-gui.py
 ##### installations
--PySimpleGUI
--docxtpl
--Python03
+- PySimpleGUI
+- docxtpl
+- Python03
 #### Author: Kabelo David
 #### Email: 0604749776kb@gmail.com
 ### connect on Linkedin: https://www.linkedin.com/in/kabelo-david/
